@@ -53,7 +53,7 @@ Welcome to the React CRUD Operations App! This sleek and powerful application ma
 
 ## API 🌐
 
-The application interacts with a mock API hosted on [MockAPI](https://jsonplaceholder.typicode.com/users/CRUD/) for seamless CRUD operations.
+The application interacts with a mock API hosted on [MockAPI](https://jsonplaceholder.typicode.com/users) for seamless CRUD operations.
 
 3. **Perform CRUD Operations:**
 
@@ -62,6 +62,6 @@ The application interacts with a mock API hosted on [MockAPI](https://jsonplaceh
 
 ## Netlify Deployment 🌐
 
-Explore the React CRUD App live on [Netlify]().
+Explore the React CRUD App live on [Netlify](https://wwwaxios.netlify.app/).
 
 # Happy coding! 🚀
