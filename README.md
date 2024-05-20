@@ -24,7 +24,7 @@ Welcome to the React CRUD Operations App! This sleek and powerful application ma
 2. **Navigate to the project directory:**
 
     ```bash
-    cd react-crud-app
+     cd "crud axios"
     ```
 
 3. **Open in Visual Studio Code:**
@@ -34,12 +34,12 @@ Welcome to the React CRUD Operations App! This sleek and powerful application ma
     ```
 
 4. **Install dependencies:**
-
+```bash
     cd "crud axios"
     npm install 
     npm install react-router-dom
     npm install axios
-
+ ```
 
 5. **Run the application:**
 
